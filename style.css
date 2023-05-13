@@ -68,7 +68,7 @@ body {
 .buttons_section {
   display: flex;
   justify-content: space-between;
-  padding-top: 10px;
+  padding-top: 20px;
 }
 .btn {
   background: none;
@@ -96,7 +96,7 @@ body {
   color: #fff;
 }
 .services{
-  padding-top: 10px;
+  padding-top: 25px;
 }
 .list-1{
   display: flex;
